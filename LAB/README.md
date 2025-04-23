@@ -1,0 +1,15 @@
+## LAB ACTIVITY
+---
+- `WEEK-1`: Linear regression
+- `WEEK-2`: Refer `week-1` for linear regression
+- `WEEK-3`: Basics of Numpy and pandas
+- `WEEK-4`:Perecptron
+- `WEEK-5`:Back Propagation
+- `WEEK-6`:Decision Tree
+- `WEEK-7`:K-Means and RBF-Network 
+- `WEEK-8`:LDA
+- `WEEK-9`:PCA
+- `WEEK-10`:GA
+- `WEEK-11`:SVM and GA
+- `WEEK-12`:SOM Vs PCA
+---
