@@ -9,7 +9,7 @@
 - `WEEK-7`:K-Means and RBF-Network 
 - `WEEK-8`:LDA
 - `WEEK-9`:PCA
-- `WEEK-10`:GA
-- `WEEK-11`:SVM and GA
+- `WEEK-10`:GA ***(Traveling Salseman)***
+- `WEEK-11`:SVM and GA ***(0/1 Knapsack)***
 - `WEEK-12`:SOM Vs PCA
 ---
